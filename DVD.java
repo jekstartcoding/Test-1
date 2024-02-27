@@ -1,3 +1,30 @@
+//lorem ipsum
+//lorem ipsum
+//lorem ipsum//lorem ipsum
+//lorem ipsum
+//lorem ipsum//lorem ipsum
+//lorem ipsum
+//lorem ipsum//lorem ipsum
+//lorem ipsum
+//lorem ipsum//lorem ipsum
+//lorem ipsum
+//lorem ipsum//lorem ipsum
+//lorem ipsum
+//lorem ipsum//lorem ipsum
+//lorem ipsum
+//lorem ipsum//lorem ipsum
+//lorem ipsum
+//lorem ipsum//lorem ipsum
+//lorem ipsum
+//lorem ipsum//lorem ipsum
+//lorem ipsum
+//lorem ipsum//lorem ipsum
+//lorem ipsum
+//lorem ipsum//lorem ipsum
+//lorem ipsum
+//lorem ipsum
+
+
 //Superclass yang memiliki 2 subclass, yaitu DVDMusik dan DVDFilm
 abstract class DVD{
     //memilki 4 attribute sebagai berikut
