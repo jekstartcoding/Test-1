@@ -1,3 +1,28 @@
+//lorem ipsum
+//lorem ipsum
+//lorem ipsum//lorem ipsum
+//lorem ipsum
+//lorem ipsum//lorem ipsum
+//lorem ipsum
+//lorem ipsum//lorem ipsum
+//lorem ipsum
+//lorem ipsum//lorem ipsum
+//lorem ipsum
+//lorem ipsum//lorem ipsum
+//lorem ipsum
+//lorem ipsum//lorem ipsum
+//lorem ipsum
+//lorem ipsum//lorem ipsum
+//lorem ipsum
+//lorem ipsum//lorem ipsum
+//lorem ipsum
+//lorem ipsum//lorem ipsum
+//lorem ipsum
+//lorem ipsum//lorem ipsum
+//lorem ipsum
+//lorem ipsum//lorem ipsum
+//lorem ipsum
+//lorem ipsum
 public class DVDMusik extends DVD {
     //attributes yang dimiliki class DVDMusik
     private String penyanyi;
